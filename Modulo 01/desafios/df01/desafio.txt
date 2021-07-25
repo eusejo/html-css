@@ -1,0 +1,18 @@
+Desafio das Mensagens
+criar um codigo em html q use apenas
+quebra de linhas e paragrafos q gere
+o resultado visual:
+___________________________________
+| 000 |0Mensagens   x| +          |
+|---------------------------------|
+| Desafio das Mensagens           |
+|*Um                              |
+|**Dois                           |
+|***Tres                          |
+|****Quatro                       |
+|                                 |
+|****Quatro                       |
+|***Tres                          |
+|**Dois                           |
+|*Um                              |
+-----------------------------------
